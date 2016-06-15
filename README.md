@@ -2,6 +2,10 @@
 
 http://devdocs.io/ is a great reference for more specific terminology. This guide attempts to cover more general lingo.
 
+Also see: https://css-tricks.com/web-nerd-terminology-explained/
+
+Work in progress.
+
 * [HTML](#html)
 * [Programming](#programming)
 * [Computer](#computer)
