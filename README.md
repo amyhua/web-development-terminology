@@ -16,7 +16,7 @@ Work in progress.
 term | meaning
 ---- | -----
 **tag** |  HTML tag. `<h1>...</h1>` is an **h1** tag 
-**attribute/value** | `<span class="foo"></span>` has a *class* attribute with *value* foo 
+**attribute/value** | `<span class="foo"></span>` has an **attribute** called "class" with a **value** of "foo"
 
 
 ###Programming
