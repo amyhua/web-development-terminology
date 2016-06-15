@@ -1,8 +1,10 @@
 # Web Development Terminology
 
-[HTML](#HTML)
-[Programming](#Programming)
-[Computer](#Computer)
+[HTML](#html)
+
+[Programming](#programming)
+
+[Computer](#computer)
 
 ---
 ###HTML
