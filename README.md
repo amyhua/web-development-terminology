@@ -1,10 +1,10 @@
 # Web Development Terminology
 
-[HTML](#html)
+http://devdocs.io/ is a great reference for more specific terminology. This guide attempts to cover more general lingo.
 
-[Programming](#programming)
-
-[Computer](#computer)
+* [HTML](#html)
+* [Programming](#programming)
+* [Computer](#computer)
 
 ---
 ###HTML
